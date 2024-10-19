@@ -1,5 +1,5 @@
 
-# Desafio de Infraestrutura como Código (IaC) - Terraform
+# Desafio Prático | Estágio em DevOps | VExpenseso - Terraform
 
 ## Visão Geral
 
